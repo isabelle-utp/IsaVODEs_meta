@@ -2,6 +2,7 @@ Affine_Arithmetic
 Automatic_Refinement
 Binomial-Heaps
 Datatype_Order_Generator
+CAS-Integration
 CAVA_Automata
 Collections
 Containers
@@ -15,7 +16,7 @@ Optics
 Ordinary_Differential_Equations
 Refine_Monadic
 Regular-Sets
-Shallow_Expressions
+Shallow-Expressions
 Show
 Triangle
 Trie

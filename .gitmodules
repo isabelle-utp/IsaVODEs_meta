@@ -1,0 +1,12 @@
+[submodule "Optics"]
+	path = Optics
+	url = https://github.com/isabelle-utp/Optics
+[submodule "Hybrid-Library"]
+	path = Hybrid-Library
+	url = https://github.com/isabelle-utp/Hybrid-Library
+[submodule "Hybrid-Verification"]
+	path = Hybrid-Verification
+	url = https://github.com/isabelle-utp/Hybrid-Verification
+[submodule "CAS-Integration"]
+	path = CAS-Integration
+	url = https://github.com/isabelle-utp/CAS-Integration
